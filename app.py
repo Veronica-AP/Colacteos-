@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configuración de la página
 st.set_page_config(
-    page_title="COLACTEOS S.A.S. - Naturalmente Irresistible",
+    page_title="COLACTEOS - Naturalmente Irresistible",
     page_icon="🥛",
     layout="wide",
 )
@@ -164,7 +164,7 @@ with col_titulo:
   st.markdown(
       """
         <div style="text-align: right; padding-top: 10px;">
-            <h1 style="color: #2C1810 !important; font-family: 'Playfair Display', serif; font-size: 34px; font-weight: 800; margin: 0; letter-spacing: 1px;">COLACTEOS S.A.S.</h1>
+            <h1 style="color: #2C1810 !important; font-family: 'Playfair Display', serif; font-size: 34px; font-weight: 800; margin: 0; letter-spacing: 1px;">COLACTEOS </h1>
             <p style="color: #5C3A21 !important; font-size: 14px; text-transform: uppercase; letter-spacing: 2px; font-weight: 700; margin-top: 5px;">Naturalmente Irresistible | Guamal, Magdalena</p>
         </div>
     """,
@@ -207,7 +207,7 @@ with col_q1:
       """
         <div class="entrelazado-left">
             <h3 style="font-family: 'Playfair Display', serif; color: #004D40; font-size: 26px; margin-bottom: 15px;">¿Quiénes Somos?</h3>
-            <p style="line-height: 1.7; font-size: 16px; color: #2C1810;">Colácteos S.A.S. es una microempresa dedicada a la producción y comercialización de productos derivados de la leche, como yogures, arequipes y postres. Nuestro propósito es ofrecer alimentos frescos, nutritivos, de alta calidad y a precios accesibles mediante procesos rigurosamente estandarizados que garantizan total inocuidad, higiene y bienestar a la comunidad.</p>
+            <p style="line-height: 1.7; font-size: 16px; color: #2C1810;">Colácteos es una microempresa dedicada a la producción y comercialización de productos derivados de la leche, como yogures, arequipes y postres. Nuestro propósito es ofrecer alimentos frescos, nutritivos, de alta calidad y a precios accesibles mediante procesos rigurosamente estandarizados que garantizan total inocuidad, higiene y bienestar a la comunidad.</p>
         </div>
     """,
       unsafe_allow_html=True,
